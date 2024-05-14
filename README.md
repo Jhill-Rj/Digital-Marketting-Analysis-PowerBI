@@ -13,3 +13,8 @@ As a Data Analyst at a Digital Marketing Agency, the primary objective is to opt
 * Presented findings and recommendations to stakeholders, facilitating informeddecision-making and driving continuous improvement in digital marketing strategies.
 
 ## Upload Details
+* **Digital Marketing Analysis_report_file** - PDF File - A Presentation on the complete analysis
+* **Digital Marketing Dataset** - Excel file - Raw Data File
+* **Digital marketting Description** - PDF File - Details & Description of the project
+* **Digital_marketing_Analysis** - PBIX File - Power BI File containing the Dynamic Dashboard
+* **Digital_marketing_Analysis** - PDF File - Screenshot For Dashboard Reference
